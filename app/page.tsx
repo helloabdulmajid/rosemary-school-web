@@ -96,7 +96,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="relative z-10 mx-auto flex w-full max-w-7xl flex-col items-center justify-between gap-3 px-6 py-7 text-center text-[10px] tracking-wider text-[#858C8D] sm:flex-row sm:px-10 lg:px-16">
-        <p>© {new Date().getFullYear()} Rosemary Public School</p>
+        <p>© 2026 Rosemary Public School</p>
         <p>LEARNING TODAY. LEADING TOMORROW.</p>
       </footer>
 
