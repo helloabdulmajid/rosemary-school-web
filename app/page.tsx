@@ -27,7 +27,7 @@ export default function Home() {
           </div>
         </div>
 
-        <span className="hidden rounded-full border border-[#B69760]/40 px-5 py-2 text-[10px] font-semibold tracking-[0.2em] text-[#8D7146] sm:block">
+        <span className=" rounded-full border border-[#B69760]/40 px-5 py-2 text-[10px] font-semibold tracking-[0.2em] text-[#8D7146] sm:block">
           WEBSITE COMING SOON
         </span>
       </header>
